@@ -8,7 +8,7 @@ setup(
     description='Библиотека для удобной работы с NAU API',  # Give a short description about your library
     author='skiter847',  # Type in your name
     author_email='ivashenco45@gmail.com',  # Type in your E-Mail
-    url='https://github.com/skiter847/nauschedulerpy',  # Provide either the link to your github or to your website
+    url='https://github.com/skiter847/NauScheduleAPI',  # Provide either the link to your github or to your website
     download_url='https://github.com/skiter847/NauScheduleAPI/archive/0.1.tar.gz',
     keywords=['SCHEDULE', 'API', 'NAU'],  # Keywords that define your package best
     install_requires=[  # I get to this in a second
